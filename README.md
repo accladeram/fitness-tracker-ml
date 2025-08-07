@@ -48,3 +48,11 @@
 ```
 
 ---
+
+## 📚 Learning Purpose & Project Inspiration
+
+This repository is part of my learning process in building end-to-end machine learning projects with a more professional structure. It follows a tutorial by Dave Ebbelaar, which you can find [here](https://youtube.com/playlist?list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K&si=10x92eoLpNchFECN).
+
+I was intrigued by how Dave bridged machine learning with fitness, using training data to generate practical insights. His structured approach showed how technical tools can be applied to real-world routines in a meaningful way.
+
+Through this project, I aim to gain practical experience in organizing code beyond notebooks, managing environments, and developing reproducible workflows. While I follow the general structure of the tutorial, this implementation reflects my own learning journey and personal adaptations.
